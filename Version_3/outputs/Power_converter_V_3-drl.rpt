@@ -1,0 +1,33 @@
+Drill report for /home/luiz/Dropbox/Work/7-2015-2016/1-Research/2-Studies/1-Core/2-Micro-grids/0-Nanogrid/2-Circuits/Version_3/Power_converter_V_3.kicad_pcb
+Created on lun. 19 sept. 2016 19:20:27 CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Power_converter_V_3.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,80mm  0,031"  (91 holes)
+    T2  0,81mm  0,032"  (34 holes)
+    T3  1,00mm  0,039"  (65 holes)  (with 6 slots)
+    T4  1,02mm  0,040"  (27 holes)
+    T5  1,20mm  0,047"  (4 holes)
+    T6  1,27mm  0,050"  (4 holes)
+    T7  1,50mm  0,059"  (2 holes)
+    T8  1,70mm  0,067"  (2 holes)
+    T9  4,10mm  0,161"  (4 holes)
+    T10  4,50mm  0,177"  (1 hole)
+
+    Total plated holes count 234
+
+
+Drill file 'Power_converter_V_3-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3,50mm  0,138"  (4 holes)
+    T2  3,80mm  0,150"  (2 holes)
+
+    Total unplated holes count 6
